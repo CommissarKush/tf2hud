@@ -1325,10 +1325,10 @@
 		"labelText" "2"
 		"xpos" "c-101"
 		"ypos" "c-100"
-		"wide" "200"
-		"tall" "202"
-		"visible" "0"
-		"enabled" "0"
+		"wide" "150"
+		"tall" "150"
+		"visible" "1"
+		"enabled" "1"
 		"textAlignment" "center"
 	}
 	
@@ -1343,8 +1343,8 @@
 		"ypos" "c-100"
 		"wide" "201"
 		"tall" "201"
-		"visible" "0"
-		"enabled" "0"
+		"visible" "1"
+		"enabled" "1"
 		"textAlignment" "center"
 	}
 
@@ -1357,10 +1357,10 @@
 		"labelText" "9"
 		"xpos" "c-100"
 		"ypos" "c-96"
-		"wide" "201"
-		"tall" "200"
-		"visible" "0"
-		"enabled" "0"
+		"wide" "199"
+		"tall" "199"
+		"visible" "1"
+		"enabled" "1"
 		"textAlignment" "center"
 	}
 }
